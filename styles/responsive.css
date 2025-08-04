@@ -21,7 +21,7 @@
 
     .menu {
         position: fixed;
-        background-color: beige;
+        background-color: #DEE8CE;
         left: -220px;
         top: 0;
         bottom: 0;
@@ -48,6 +48,10 @@
     .page-banner{
         width: 100%;
         padding: 10px;
+    }
+
+    .page-content__title{
+        font-size: 60px;
     }
 }
 
